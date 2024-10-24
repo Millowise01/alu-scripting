@@ -1,4 +1,6 @@
-s module provides a function to query the Reddit API and return the
+#!/usr/bin/python3
+
+This module provides a function to query the Reddit API and return the
 number of subscribers for a given subreddit.
 """
 
